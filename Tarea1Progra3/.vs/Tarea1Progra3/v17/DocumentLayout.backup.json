@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Portatil_12\\source\\repos\\Tarea1Progra3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63686B56-8185-4E5F-B3D2-0A7055118118}|Tarea1Progra3\\Tarea1Progra3.csproj|c:\\users\\portatil_12\\source\\repos\\tarea1progra3\\tarea1progra3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63686B56-8185-4E5F-B3D2-0A7055118118}|Tarea1Progra3\\Tarea1Progra3.csproj|solutionrelative:tarea1progra3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63686B56-8185-4E5F-B3D2-0A7055118118}|Tarea1Progra3\\Tarea1Progra3.csproj|c:\\users\\portatil_12\\source\\repos\\tarea1progra3\\tarea1progra3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63686B56-8185-4E5F-B3D2-0A7055118118}|Tarea1Progra3\\Tarea1Progra3.csproj|solutionrelative:tarea1progra3\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Portatil_12\\source\\repos\\Tarea1Progra3\\Tarea1Progra3\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Tarea1Progra3\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Portatil_12\\source\\repos\\Tarea1Progra3\\Tarea1Progra3\\Estudiante.cs",
+              "RelativeToolTip": "Tarea1Progra3\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:30:37.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Portatil_12\\source\\repos\\Tarea1Progra3\\Tarea1Progra3\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea1Progra3\\Program.cs",
+              "ToolTip": "C:\\Users\\Portatil_12\\source\\repos\\Tarea1Progra3\\Tarea1Progra3\\Program.cs",
+              "RelativeToolTip": "Tarea1Progra3\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:00:58.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

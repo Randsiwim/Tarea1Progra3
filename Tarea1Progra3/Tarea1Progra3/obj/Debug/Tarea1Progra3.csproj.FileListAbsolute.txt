@@ -1,0 +1,7 @@
+C:\Users\Portatil_12\source\repos\Tarea1Progra3\Tarea1Progra3\bin\Debug\Tarea1Progra3.exe.config
+C:\Users\Portatil_12\source\repos\Tarea1Progra3\Tarea1Progra3\bin\Debug\Tarea1Progra3.exe
+C:\Users\Portatil_12\source\repos\Tarea1Progra3\Tarea1Progra3\bin\Debug\Tarea1Progra3.pdb
+C:\Users\Portatil_12\source\repos\Tarea1Progra3\Tarea1Progra3\obj\Debug\Tarea1Progra3.csproj.AssemblyReference.cache
+C:\Users\Portatil_12\source\repos\Tarea1Progra3\Tarea1Progra3\obj\Debug\Tarea1Progra3.csproj.CoreCompileInputs.cache
+C:\Users\Portatil_12\source\repos\Tarea1Progra3\Tarea1Progra3\obj\Debug\Tarea1Progra3.exe
+C:\Users\Portatil_12\source\repos\Tarea1Progra3\Tarea1Progra3\obj\Debug\Tarea1Progra3.pdb
